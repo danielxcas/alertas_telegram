@@ -1,0 +1,13 @@
+# created by virtualenv automatically
+# Entorno virtual
+.venv/
+venv/
+__pycache__/
+
+# Archivos temporales
+*.pyc
+.DS_Store
+
+# Archivos sensibles
+.env
+config.json
